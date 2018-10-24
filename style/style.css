@@ -1,0 +1,113 @@
+body {
+  background: url('../media/BG1.jpg');
+  background-size: 1600px;
+  background-position:center center;
+  background-attachment:fixed;
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  width: 100%;
+  background-color: LightCoral;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: LemonChiffon;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  font-family: cursive;
+  color: LemonChiffon;
+}
+
+nav a:hover {
+  color: #cecece;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 30px;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+
+nav h1 {
+  font-size: 30px;
+}
+
+.photo {
+  padding-top: 25px;
+  float: right;
+}
+
+main {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(255,255,255,0.3);
+  padding: 10px;
+}
+
+main p {
+  font-size: 18px;
+  font-family: cursive;
+  
+}
+
+main h1 {
+  font-size: 40px;
+  color: Salmon;
+  font-family: Times New Roman;
+  text-align: left;
+}
+
+main h2 {
+  font-size: 25px;
+  text-align: center;
+  background-color: rgba(255,255,255,0.8);
+  padding: 0;
+  margin: 0;
+}
+
+main section {
+  background-color: rgba(240,128,128,0.3);
+}
+
+main h3 {
+  text-align: center;
+  font-family: Times New Roman;
+}
+
+main li {
+  font-size: 18px;
+  font-family: cursive;
+}
+
+
+main iframe {
+  width: 300px;
+  height: 500px;
+  border: 3px dashed Salmon;
+}
+
+main figure {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+main table {
+  width: 75%;
+}
+
+main td {
+  width: 50%;
+}
+
+main th {
+  text-align: left;
+}
