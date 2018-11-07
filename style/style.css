@@ -102,6 +102,10 @@ main h3 {
   font-family: Times New Roman;
 }
 
+main h5 {
+  color: white;
+}
+
 main li {
   font-size: 18px;
   font-family: cursive;
