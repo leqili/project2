@@ -41,6 +41,11 @@ nav h1 {
   float: right;
 }
 
+.video {
+  padding-top: 25px;
+  float: left;
+}
+
 main {
   width: 60%;
   margin-left: auto;
